@@ -1,0 +1,1724 @@
+-----Producer 0
+-----file id: 5
+-----salary: 7049
+-----year: 1982
+-----month: 8
+-----day: 23
+
+
+-----Producer 0
+-----file id: 10
+-----salary: 1705
+-----year: 1955
+-----month: 6
+-----day: 17
+
+
+-----Producer 0
+-----file id: 15
+-----salary: 19948
+-----year: 1987
+-----month: 3
+-----day: 28
+
+
+-----Producer 2
+-----file id: 2
+-----salary: 165
+-----year: 1975
+-----month: 3
+-----day: 27
+
+
+-----Producer 3
+-----file id: 3
+-----salary: 15321
+-----year: 1980
+-----month: 3
+-----day: 13
+
+
+-----Producer 0
+-----file id: 20
+-----salary: 3135
+-----year: 1959
+-----month: 7
+-----day: 7
+
+
+-----Producer 1
+-----file id: 1
+-----salary: 26885
+-----year: 1992
+-----month: 12
+-----day: 5
+
+
+-----Producer 2
+-----file id: 7
+-----salary: 21853
+-----year: 1995
+-----month: 2
+-----day: 17
+
+
+-----Producer 1
+-----file id: 6
+-----salary: 16093
+-----year: 1964
+-----month: 9
+-----day: 26
+
+
+----------Consumer 2
+----------file id: 6
+----------salary: 16093
+----------year: 1964
+----------month: 9
+----------day: 26
+
+
+----------Consumer 2
+----------file id: 7
+----------salary: 21853
+----------year: 1995
+----------month: 2
+----------day: 17
+
+
+----------Consumer 2
+----------file id: 1
+----------salary: 26885
+----------year: 1992
+----------month: 12
+----------day: 5
+
+
+----------Consumer 2
+----------file id: 20
+----------salary: 3135
+----------year: 1959
+----------month: 7
+----------day: 7
+
+
+----------Consumer 2
+----------file id: 3
+----------salary: 15321
+----------year: 1980
+----------month: 3
+----------day: 13
+
+
+----------Consumer 2
+----------file id: 2
+----------salary: 165
+----------year: 1975
+----------month: 3
+----------day: 27
+
+
+----------Consumer 2
+----------file id: 15
+----------salary: 19948
+----------year: 1987
+----------month: 3
+----------day: 28
+
+
+----------Consumer 2
+----------file id: 10
+----------salary: 1705
+----------year: 1955
+----------month: 6
+----------day: 17
+
+
+----------Consumer 2
+----------file id: 5
+----------salary: 7049
+----------year: 1982
+----------month: 8
+----------day: 23
+
+
+-----Producer 4
+-----file id: 4
+-----salary: 11721
+-----year: 1953
+-----month: 11
+-----day: 7
+
+
+----------Consumer 0
+----------file id: 4
+----------salary: 11721
+----------year: 1953
+----------month: 11
+----------day: 7
+
+
+----------Consumer 4
+----------file id: 0
+----------salary: 0
+----------year: 0
+----------month: 0
+----------day: 0
+
+
+-----Producer 2
+-----file id: 12
+-----salary: 24837
+-----year: 1957
+-----month: 10
+-----day: 20
+
+
+----------Consumer 1
+----------file id: 12
+----------salary: 24837
+----------year: 1957
+----------month: 10
+----------day: 20
+
+
+-----Producer 3
+-----file id: 8
+-----salary: 16629
+-----year: 1926
+-----month: 1
+-----day: 4
+
+
+-----Producer 0
+-----file id: 25
+-----salary: 14776
+-----year: 1934
+-----month: 2
+-----day: 10
+
+
+-----Producer 1
+-----file id: 11
+-----salary: 31147
+-----year: 1981
+-----month: 5
+-----day: 14
+
+
+----------Consumer 3
+----------file id: 11
+----------salary: 31147
+----------year: 1981
+----------month: 5
+----------day: 14
+
+
+----------Consumer 3
+----------file id: 25
+----------salary: 14776
+----------year: 1934
+----------month: 2
+----------day: 10
+
+
+----------Consumer 3
+----------file id: 8
+----------salary: 16629
+----------year: 1926
+----------month: 1
+----------day: 4
+
+
+----------Consumer 2
+----------file id: 0
+----------salary: 0
+----------year: 0
+----------month: 0
+----------day: 0
+
+
+-----Producer 3
+-----file id: 13
+-----salary: 7439
+-----year: 1900
+-----month: 7
+-----day: 2
+
+
+----------Consumer 1
+----------file id: 13
+----------salary: 7439
+----------year: 1900
+----------month: 7
+----------day: 2
+
+
+-----Producer 0
+-----file id: 30
+-----salary: 18993
+-----year: 1932
+-----month: 12
+-----day: 13
+
+
+----------Consumer 3
+----------file id: 30
+----------salary: 18993
+----------year: 1932
+----------month: 12
+----------day: 13
+
+
+-----Producer 0
+-----file id: 35
+-----salary: 28757
+-----year: 1974
+-----month: 12
+-----day: 14
+
+
+-----Producer 4
+-----file id: 9
+-----salary: 12654
+-----year: 1970
+-----month: 7
+-----day: 4
+
+
+-----Producer 0
+-----file id: 40
+-----salary: 2627
+-----year: 1979
+-----month: 12
+-----day: 3
+
+
+----------Consumer 3
+----------file id: 40
+----------salary: 2627
+----------year: 1979
+----------month: 12
+----------day: 3
+
+
+----------Consumer 3
+----------file id: 9
+----------salary: 12654
+----------year: 1970
+----------month: 7
+----------day: 4
+
+
+----------Consumer 3
+----------file id: 35
+----------salary: 28757
+----------year: 1974
+----------month: 12
+----------day: 14
+
+
+-----Producer 1
+-----file id: 16
+-----salary: 4600
+-----year: 1942
+-----month: 11
+-----day: 27
+
+
+----------Consumer 3
+----------file id: 16
+----------salary: 4600
+----------year: 1942
+----------month: 11
+----------day: 27
+
+
+-----Producer 2
+-----file id: 17
+-----salary: 19724
+-----year: 1935
+-----month: 4
+-----day: 20
+
+
+-----Producer 4
+-----file id: 14
+-----salary: 32650
+-----year: 1908
+-----month: 4
+-----day: 24
+
+
+----------Consumer 1
+----------file id: 14
+----------salary: 32650
+----------year: 1908
+----------month: 4
+----------day: 24
+
+
+----------Consumer 1
+----------file id: 17
+----------salary: 19724
+----------year: 1935
+----------month: 4
+----------day: 20
+
+
+-----Producer 0
+-----file id: 45
+-----salary: 15676
+-----year: 1941
+-----month: 5
+-----day: 2
+
+
+----------Consumer 1
+----------file id: 45
+----------salary: 15676
+----------year: 1941
+----------month: 5
+----------day: 2
+
+
+-----Producer 0
+-----file id: 50
+-----salary: 13343
+-----year: 1916
+-----month: 11
+-----day: 21
+
+
+----------Consumer 1
+----------file id: 50
+----------salary: 13343
+----------year: 1916
+----------month: 11
+----------day: 21
+
+
+----------Consumer 2
+----------file id: 0
+----------salary: 0
+----------year: 0
+----------month: 0
+----------day: 0
+
+
+-----Producer 1
+-----file id: 21
+-----salary: 24970
+-----year: 1902
+-----month: 6
+-----day: 22
+
+
+-----Producer 2
+-----file id: 22
+-----salary: 19860
+-----year: 1912
+-----month: 9
+-----day: 26
+
+
+-----Producer 1
+-----file id: 26
+-----salary: 19264
+-----year: 1915
+-----month: 7
+-----day: 10
+
+
+----------Consumer 3
+----------file id: 26
+----------salary: 19264
+----------year: 1915
+----------month: 7
+----------day: 10
+
+
+-----Producer 1
+-----file id: 31
+-----salary: 11754
+-----year: 1950
+-----month: 5
+-----day: 18
+
+
+----------Consumer 4
+----------file id: 31
+----------salary: 11754
+----------year: 1950
+----------month: 5
+----------day: 18
+
+
+----------Consumer 4
+----------file id: 22
+----------salary: 19860
+----------year: 1912
+----------month: 9
+----------day: 26
+
+
+----------Consumer 4
+----------file id: 21
+----------salary: 24970
+----------year: 1902
+----------month: 6
+----------day: 22
+
+
+----------Consumer 1
+----------file id: 0
+----------salary: 0
+----------year: 0
+----------month: 0
+----------day: 0
+
+
+----------Consumer 2
+----------file id: 0
+----------salary: 0
+----------year: 0
+----------month: 0
+----------day: 0
+
+
+-----Producer 4
+-----file id: 19
+-----salary: 22870
+-----year: 1982
+-----month: 1
+-----day: 9
+
+
+-----Producer 2
+-----file id: 27
+-----salary: 11751
+-----year: 1952
+-----month: 2
+-----day: 1
+
+
+----------Consumer 3
+----------file id: 27
+----------salary: 11751
+----------year: 1952
+----------month: 2
+----------day: 1
+
+
+----------Consumer 3
+----------file id: 19
+----------salary: 22870
+----------year: 1982
+----------month: 1
+----------day: 9
+
+
+-----Producer 1
+-----file id: 36
+-----salary: 13297
+-----year: 1983
+-----month: 6
+-----day: 4
+
+
+----------Consumer 0
+----------file id: 36
+----------salary: 13297
+----------year: 1983
+----------month: 6
+----------day: 4
+
+
+-----Producer 0
+-----file id: 55
+-----salary: 1789
+-----year: 1956
+-----month: 8
+-----day: 12
+
+
+----------Consumer 3
+----------file id: 55
+----------salary: 1789
+----------year: 1956
+----------month: 8
+----------day: 12
+
+
+-----Producer 4
+-----file id: 24
+-----salary: 24895
+-----year: 1940
+-----month: 2
+-----day: 8
+
+
+----------Consumer 1
+----------file id: 24
+----------salary: 24895
+----------year: 1940
+----------month: 2
+----------day: 8
+
+
+-----Producer 2
+-----file id: 32
+-----salary: 9117
+-----year: 1996
+-----month: 11
+-----day: 8
+
+
+-----Producer 3
+-----file id: 18
+-----salary: 27934
+-----year: 1959
+-----month: 7
+-----day: 16
+
+
+----------Consumer 3
+----------file id: 18
+----------salary: 27934
+----------year: 1959
+----------month: 7
+----------day: 16
+
+
+----------Consumer 3
+----------file id: 32
+----------salary: 9117
+----------year: 1996
+----------month: 11
+----------day: 8
+
+
+-----Producer 0
+-----file id: 60
+-----salary: 11488
+-----year: 1926
+-----month: 5
+-----day: 28
+
+
+-----Producer 4
+-----file id: 29
+-----salary: 16324
+-----year: 1954
+-----month: 1
+-----day: 24
+
+
+----------Consumer 1
+----------file id: 29
+----------salary: 16324
+----------year: 1954
+----------month: 1
+----------day: 24
+
+
+----------Consumer 1
+----------file id: 60
+----------salary: 11488
+----------year: 1926
+----------month: 5
+----------day: 28
+
+
+-----Producer 1
+-----file id: 41
+-----salary: 19550
+-----year: 1908
+-----month: 3
+-----day: 27
+
+
+----------Consumer 3
+----------file id: 41
+----------salary: 19550
+----------year: 1908
+----------month: 3
+----------day: 27
+
+
+-----Producer 3
+-----file id: 23
+-----salary: 22039
+-----year: 1924
+-----month: 5
+-----day: 2
+
+
+----------Consumer 0
+----------file id: 23
+----------salary: 22039
+----------year: 1924
+----------month: 5
+----------day: 2
+
+
+-----Producer 0
+-----file id: 65
+-----salary: 30075
+-----year: 1987
+-----month: 3
+-----day: 18
+
+
+----------Consumer 3
+----------file id: 65
+----------salary: 30075
+----------year: 1987
+----------month: 3
+----------day: 18
+
+
+-----Producer 0
+-----file id: 70
+-----salary: 17075
+-----year: 1975
+-----month: 7
+-----day: 9
+
+
+----------Consumer 2
+----------file id: 70
+----------salary: 17075
+----------year: 1975
+----------month: 7
+----------day: 9
+
+
+----------Consumer 4
+----------file id: 0
+----------salary: 0
+----------year: 0
+----------month: 0
+----------day: 0
+
+
+-----Producer 1
+-----file id: 46
+-----salary: 20780
+-----year: 1948
+-----month: 1
+-----day: 19
+
+
+----------Consumer 0
+----------file id: 46
+----------salary: 20780
+----------year: 1948
+----------month: 1
+----------day: 19
+
+
+-----Producer 4
+-----file id: 34
+-----salary: 14378
+-----year: 1909
+-----month: 8
+-----day: 19
+
+
+----------Consumer 3
+----------file id: 34
+----------salary: 14378
+----------year: 1909
+----------month: 8
+----------day: 19
+
+
+-----Producer 0
+-----file id: 75
+-----salary: 2589
+-----year: 1983
+-----month: 11
+-----day: 20
+
+
+----------Consumer 1
+----------file id: 75
+----------salary: 2589
+----------year: 1983
+----------month: 11
+----------day: 20
+
+
+-----Producer 1
+-----file id: 51
+-----salary: 30815
+-----year: 1964
+-----month: 12
+-----day: 7
+
+
+-----Producer 2
+-----file id: 37
+-----salary: 14505
+-----year: 1957
+-----month: 12
+-----day: 27
+
+
+-----Producer 4
+-----file id: 39
+-----salary: 30406
+-----year: 1904
+-----month: 4
+-----day: 6
+
+
+-----Producer 2
+-----file id: 42
+-----salary: 28900
+-----year: 1991
+-----month: 11
+-----day: 19
+
+
+----------Consumer 3
+----------file id: 42
+----------salary: 28900
+----------year: 1991
+----------month: 11
+----------day: 19
+
+
+----------Consumer 3
+----------file id: 39
+----------salary: 30406
+----------year: 1904
+----------month: 4
+----------day: 6
+
+
+----------Consumer 3
+----------file id: 37
+----------salary: 14505
+----------year: 1957
+----------month: 12
+----------day: 27
+
+
+----------Consumer 0
+----------file id: 51
+----------salary: 30815
+----------year: 1964
+----------month: 12
+----------day: 7
+
+
+-----Producer 3
+-----file id: 28
+-----salary: 16918
+-----year: 1929
+-----month: 8
+-----day: 16
+
+
+-----Producer 4
+-----file id: 44
+-----salary: 6450
+-----year: 1914
+-----month: 12
+-----day: 11
+
+
+-----Producer 0
+-----file id: 80
+-----salary: 15555
+-----year: 1918
+-----month: 1
+-----day: 14
+
+
+-----Producer 2
+-----file id: 47
+-----salary: 5769
+-----year: 1931
+-----month: 4
+-----day: 13
+
+
+----------Consumer 2
+----------file id: 47
+----------salary: 5769
+----------year: 1931
+----------month: 4
+----------day: 13
+
+
+----------Consumer 2
+----------file id: 80
+----------salary: 15555
+----------year: 1918
+----------month: 1
+----------day: 14
+
+
+----------Consumer 2
+----------file id: 44
+----------salary: 6450
+----------year: 1914
+----------month: 12
+----------day: 11
+
+
+----------Consumer 2
+----------file id: 28
+----------salary: 16918
+----------year: 1929
+----------month: 8
+----------day: 16
+
+
+----------Consumer 1
+----------file id: 0
+----------salary: 0
+----------year: 0
+----------month: 0
+----------day: 0
+
+
+-----Producer 4
+-----file id: 49
+-----salary: 18184
+-----year: 1941
+-----month: 5
+-----day: 24
+
+
+-----Producer 0
+-----file id: 85
+-----salary: 30073
+-----year: 1965
+-----month: 5
+-----day: 5
+
+
+----------Consumer 0
+----------file id: 85
+----------salary: 30073
+----------year: 1965
+----------month: 5
+----------day: 5
+
+
+----------Consumer 0
+----------file id: 49
+----------salary: 18184
+----------year: 1941
+----------month: 5
+----------day: 24
+
+
+-----Producer 1
+-----file id: 56
+-----salary: 30739
+-----year: 1918
+-----month: 11
+-----day: 3
+
+
+----------Consumer 0
+----------file id: 56
+----------salary: 30739
+----------year: 1918
+----------month: 11
+----------day: 3
+
+
+-----Producer 1
+-----file id: 61
+-----salary: 23036
+-----year: 1909
+-----month: 6
+-----day: 12
+
+
+----------Consumer 0
+----------file id: 61
+----------salary: 23036
+----------year: 1909
+----------month: 6
+----------day: 12
+
+
+-----Producer 1
+-----file id: 66
+-----salary: 16351
+-----year: 1915
+-----month: 9
+-----day: 6
+
+
+----------Consumer 0
+----------file id: 66
+----------salary: 16351
+----------year: 1915
+----------month: 9
+----------day: 6
+
+
+-----Producer 0
+-----file id: 90
+-----salary: 32400
+-----year: 1908
+-----month: 7
+-----day: 8
+
+
+----------Consumer 0
+----------file id: 90
+----------salary: 32400
+----------year: 1908
+----------month: 7
+----------day: 8
+
+
+----------Consumer 4
+----------file id: 0
+----------salary: 0
+----------year: 0
+----------month: 0
+----------day: 0
+
+
+-----Producer 3
+-----file id: 33
+-----salary: 25744
+-----year: 1930
+-----month: 11
+-----day: 23
+
+
+----------Consumer 0
+----------file id: 33
+----------salary: 25744
+----------year: 1930
+----------month: 11
+----------day: 23
+
+
+-----Producer 4
+-----file id: 54
+-----salary: 2992
+-----year: 1993
+-----month: 11
+-----day: 22
+
+
+----------Consumer 1
+----------file id: 54
+----------salary: 2992
+----------year: 1993
+----------month: 11
+----------day: 22
+
+
+-----Producer 1
+-----file id: 71
+-----salary: 11384
+-----year: 1904
+-----month: 11
+-----day: 16
+
+
+----------Consumer 0
+----------file id: 71
+----------salary: 11384
+----------year: 1904
+----------month: 11
+----------day: 16
+
+
+-----Producer 1
+-----file id: 76
+-----salary: 13203
+-----year: 1987
+-----month: 5
+-----day: 19
+
+
+----------Consumer 2
+----------file id: 76
+----------salary: 13203
+----------year: 1987
+----------month: 5
+----------day: 19
+
+
+-----Producer 3
+-----file id: 38
+-----salary: 45
+-----year: 1966
+-----month: 7
+-----day: 27
+
+
+-----Producer 4
+-----file id: 59
+-----salary: 28138
+-----year: 1914
+-----month: 8
+-----day: 19
+
+
+----------Consumer 0
+----------file id: 59
+----------salary: 28138
+----------year: 1914
+----------month: 8
+----------day: 19
+
+
+----------Consumer 0
+----------file id: 38
+----------salary: 45
+----------year: 1966
+----------month: 7
+----------day: 27
+
+
+-----Producer 1
+-----file id: 81
+-----salary: 18223
+-----year: 1918
+-----month: 3
+-----day: 24
+
+
+----------Consumer 1
+----------file id: 81
+----------salary: 18223
+----------year: 1918
+----------month: 3
+----------day: 24
+
+
+-----Producer 3
+-----file id: 43
+-----salary: 10950
+-----year: 1968
+-----month: 10
+-----day: 22
+
+
+-----Producer 2
+-----file id: 52
+-----salary: 13714
+-----year: 1998
+-----month: 12
+-----day: 19
+
+
+----------Consumer 0
+----------file id: 52
+----------salary: 13714
+----------year: 1998
+----------month: 12
+----------day: 19
+
+
+----------Consumer 0
+----------file id: 43
+----------salary: 10950
+----------year: 1968
+----------month: 10
+----------day: 22
+
+
+-----Producer 1
+-----file id: 86
+-----salary: 32245
+-----year: 1918
+-----month: 9
+-----day: 13
+
+
+----------Consumer 2
+----------file id: 86
+----------salary: 32245
+----------year: 1918
+----------month: 9
+----------day: 13
+
+
+-----Producer 3
+-----file id: 48
+-----salary: 10992
+-----year: 1919
+-----month: 10
+-----day: 22
+
+
+-----Producer 4
+-----file id: 64
+-----salary: 1814
+-----year: 1900
+-----month: 11
+-----day: 7
+
+
+-----Producer 2
+-----file id: 57
+-----salary: 11537
+-----year: 1905
+-----month: 2
+-----day: 4
+
+
+-----Producer 0
+-----file id: 95
+-----salary: 31095
+-----year: 1961
+-----month: 11
+-----day: 22
+
+
+----------Consumer 2
+----------file id: 95
+----------salary: 31095
+----------year: 1961
+----------month: 11
+----------day: 22
+
+
+----------Consumer 1
+----------file id: 57
+----------salary: 11537
+----------year: 1905
+----------month: 2
+----------day: 4
+
+
+----------Consumer 1
+----------file id: 64
+----------salary: 1814
+----------year: 1900
+----------month: 11
+----------day: 7
+
+
+----------Consumer 1
+----------file id: 48
+----------salary: 10992
+----------year: 1919
+----------month: 10
+----------day: 22
+
+
+-----Producer 4
+-----file id: 69
+-----salary: 21733
+-----year: 1966
+-----month: 8
+-----day: 2
+
+
+----------Consumer 4
+----------file id: 69
+----------salary: 21733
+----------year: 1966
+----------month: 8
+----------day: 2
+
+
+-----Producer 2
+-----file id: 62
+-----salary: 10603
+-----year: 1904
+-----month: 12
+-----day: 5
+
+
+-----Producer 1
+-----file id: 91
+-----salary: 18019
+-----year: 1976
+-----month: 2
+-----day: 28
+
+
+-----Producer 0
+-----file id: 100
+-----salary: 9167
+-----year: 1964
+-----month: 8
+-----day: 17
+
+
+-----Producer 3
+-----file id: 53
+-----salary: 14938
+-----year: 1989
+-----month: 7
+-----day: 14
+
+
+----------Consumer 0
+----------file id: 53
+----------salary: 14938
+----------year: 1989
+----------month: 7
+----------day: 14
+
+
+----------Consumer 0
+----------file id: 100
+----------salary: 9167
+----------year: 1964
+----------month: 8
+----------day: 17
+
+
+----------Consumer 0
+----------file id: 91
+----------salary: 18019
+----------year: 1976
+----------month: 2
+----------day: 28
+
+
+----------Consumer 4
+----------file id: 62
+----------salary: 10603
+----------year: 1904
+----------month: 12
+----------day: 5
+
+
+-----Producer 2
+-----file id: 67
+-----salary: 26398
+-----year: 1932
+-----month: 4
+-----day: 15
+
+
+-----Producer 1
+-----file id: 96
+-----salary: 30910
+-----year: 1923
+-----month: 3
+-----day: 28
+
+
+----------Consumer 1
+----------file id: 96
+----------salary: 30910
+----------year: 1923
+----------month: 3
+----------day: 28
+
+
+----------Consumer 1
+----------file id: 67
+----------salary: 26398
+----------year: 1932
+----------month: 4
+----------day: 15
+
+
+-----Producer 4
+-----file id: 74
+-----salary: 14111
+-----year: 1973
+-----month: 4
+-----day: 21
+
+
+----------Consumer 4
+----------file id: 74
+----------salary: 14111
+----------year: 1973
+----------month: 4
+----------day: 21
+
+
+-----Producer 2
+-----file id: 72
+-----salary: 21980
+-----year: 1928
+-----month: 2
+-----day: 18
+
+
+----------Consumer 1
+----------file id: 72
+----------salary: 21980
+----------year: 1928
+----------month: 2
+----------day: 18
+
+
+-----Producer 4
+-----file id: 79
+-----salary: 5082
+-----year: 1993
+-----month: 10
+-----day: 9
+
+
+-----Producer 3
+-----file id: 58
+-----salary: 26916
+-----year: 1930
+-----month: 3
+-----day: 2
+
+
+-----Producer 2
+-----file id: 77
+-----salary: 576
+-----year: 1935
+-----month: 8
+-----day: 2
+
+
+----------Consumer 4
+----------file id: 77
+----------salary: 576
+----------year: 1935
+----------month: 8
+----------day: 2
+
+
+----------Consumer 4
+----------file id: 58
+----------salary: 26916
+----------year: 1930
+----------month: 3
+----------day: 2
+
+
+----------Consumer 4
+----------file id: 79
+----------salary: 5082
+----------year: 1993
+----------month: 10
+----------day: 9
+
+
+-----Producer 2
+-----file id: 82
+-----salary: 12558
+-----year: 1984
+-----month: 1
+-----day: 16
+
+
+-----Producer 4
+-----file id: 84
+-----salary: 21341
+-----year: 1931
+-----month: 9
+-----day: 9
+
+
+-----Producer 2
+-----file id: 87
+-----salary: 4864
+-----year: 1930
+-----month: 7
+-----day: 24
+
+
+----------Consumer 4
+----------file id: 87
+----------salary: 4864
+----------year: 1930
+----------month: 7
+----------day: 24
+
+
+----------Consumer 4
+----------file id: 84
+----------salary: 21341
+----------year: 1931
+----------month: 9
+----------day: 9
+
+
+----------Consumer 4
+----------file id: 82
+----------salary: 12558
+----------year: 1984
+----------month: 1
+----------day: 16
+
+
+-----Producer 2
+-----file id: 92
+-----salary: 13773
+-----year: 1913
+-----month: 12
+-----day: 21
+
+
+-----Producer 3
+-----file id: 63
+-----salary: 8035
+-----year: 1998
+-----month: 9
+-----day: 13
+
+
+-----Producer 4
+-----file id: 89
+-----salary: 4744
+-----year: 1972
+-----month: 12
+-----day: 24
+
+
+-----Producer 3
+-----file id: 68
+-----salary: 17569
+-----year: 1918
+-----month: 10
+-----day: 4
+
+
+-----Producer 2
+-----file id: 97
+-----salary: 29785
+-----year: 1917
+-----month: 1
+-----day: 26
+
+
+-----Producer 4
+-----file id: 94
+-----salary: 29728
+-----year: 1964
+-----month: 9
+-----day: 7
+
+
+-----Producer 3
+-----file id: 73
+-----salary: 5199
+-----year: 1967
+-----month: 7
+-----day: 16
+
+
+----------Consumer 4
+----------file id: 73
+----------salary: 5199
+----------year: 1967
+----------month: 7
+----------day: 16
+
+
+----------Consumer 4
+----------file id: 94
+----------salary: 29728
+----------year: 1964
+----------month: 9
+----------day: 7
+
+
+----------Consumer 4
+----------file id: 97
+----------salary: 29785
+----------year: 1917
+----------month: 1
+----------day: 26
+
+
+----------Consumer 4
+----------file id: 68
+----------salary: 17569
+----------year: 1918
+----------month: 10
+----------day: 4
+
+
+----------Consumer 4
+----------file id: 89
+----------salary: 4744
+----------year: 1972
+----------month: 12
+----------day: 24
+
+
+-----Producer 4
+-----file id: 99
+-----salary: 15478
+-----year: 1935
+-----month: 7
+-----day: 5
+
+
+-----Producer 3
+-----file id: 78
+-----salary: 1284
+-----year: 1923
+-----month: 12
+-----day: 2
+
+
+-----Producer 3
+-----file id: 83
+-----salary: 22643
+-----year: 1980
+-----month: 4
+-----day: 5
+
+
+-----Producer 3
+-----file id: 88
+-----salary: 4398
+-----year: 1966
+-----month: 2
+-----day: 10
+
+
+-----Producer 3
+-----file id: 93
+-----salary: 21826
+-----year: 1994
+-----month: 2
+-----day: 26
+
+
+-----Producer 3
+-----file id: 98
+-----salary: 29139
+-----year: 1964
+-----month: 3
+-----day: 11
+
+
+Buffer0
+file id: 92
+salary: 13773
+year: 1913
+month: 12
+day: 21
+
+
+Buffer1
+file id: 63
+salary: 8035
+year: 1998
+month: 9
+day: 13
+
+
+Buffer2
+file id: 99
+salary: 15478
+year: 1935
+month: 7
+day: 5
+
+
+Buffer3
+file id: 78
+salary: 1284
+year: 1923
+month: 12
+day: 2
+
+
+Buffer4
+file id: 83
+salary: 22643
+year: 1980
+month: 4
+day: 5
+
+
+Buffer5
+file id: 88
+salary: 4398
+year: 1966
+month: 2
+day: 10
+
+
+Buffer6
+file id: 93
+salary: 21826
+year: 1994
+month: 2
+day: 26
+
+
+Buffer7
+file id: 98
+salary: 29139
+year: 1964
+month: 3
+day: 11
+
+
+Buffer8
+file id: 6
+salary: 16093
+year: 1964
+month: 9
+day: 26
+
+
+Buffer9
+file id: 0
+salary: 0
+year: 0
+month: 0
+day: 0
+
+counterCons: 100
+counterProds: 100
+salaryTotal: 1680593
+
+
+
+
+
+#define BUFFER_SIZE 10
+#define PRODUCER_COUNT 5
+#define CONSUMER_COUNT 5
+#define NUM 100
+#define MONTHS 12
+
+typedef struct{
+
+	int id;
+	int salary;
+	int year;
+	int month;
+	int day;
+
+} Person;
+
+// Global variables
+
+Person buffer[BUFFER_SIZE];
+
+
+
+float salaryAverage = 0;  // Average salary, first output
+int salaryTotal = 0;  // Total salaries, to calculate average
+int personsTotal = 0;  // Total amount of persons, to calculate average salary
+int histogram[MONTHS] = {0};  // Month histogram, second output
+int agePerson;  // Persons age, who will be "agePerson" years old this year(2022)
+int dobPerson;  // 
+int mobPerson;  //
+int tail = 0; 
+int counterCons = 0;
+int counterProds = 0;
+int foundID = 0;
+
+pthread_mutex_t mutex;
+sem_t semFilled;
+sem_t semEmpty;
